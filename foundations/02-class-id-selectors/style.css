@@ -1,0 +1,15 @@
+.class{
+    background-color:pink;font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.extra{
+    font-size: 24px;
+}
+#damn {
+    color: blue;
+    font-size: 36px;
+}
+#another {
+    background-color: lightgreen;
+    font: size 24px;
+    font-weight: bold;
+}
