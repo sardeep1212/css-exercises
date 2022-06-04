@@ -1,0 +1,14 @@
+.mare,.fermo{
+    font-size: 28px;
+    font-family:  Helvetica, sans-serif,'Times New Roman';
+
+}
+.mare{
+    background-color: black;
+    color: white;
+
+}
+.fermo{
+    background-color: yellow;
+    color: black;
+}
